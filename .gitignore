@@ -419,4 +419,7 @@ poetry.toml
 # LSP config files
 pyrightconfig.json
 
+# idea/
+.idea/
+
 # End of https://www.toptal.com/developers/gitignore/api/macos,python,java,intellij,pycharm
